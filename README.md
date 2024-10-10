@@ -3,8 +3,8 @@
 <br>m3u格式:</br>https://ghp.ci/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/m3u/Sexy.m3u</br>
 <br>txt格式::</br>https://ghp.ci/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/txt/Sexy.txt</br>
 
-另外介绍几个欲望很强的小姐姐，可约哦
-
+另外介绍几个欲望很强的小姐姐，可约哦</br></br></br>
+<img src=https://github.com/LITTLEPINKALLDEAD/Sexy/blob/main/Images/%E5%A4%A7%E5%A5%B6%E7%BB%B4/vv%20(5).png />
 <br>爱称:维子
 <br>出生年月:1991.7
 <br>出生地:四川广安
