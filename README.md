@@ -1,7 +1,10 @@
-# Sexy
 <br>性感福利频道，欢迎订阅，订阅地址：
 <br>m3u格式:</br>https://ghp.ci/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/m3u/Sexy.m3u</br>
 <br>txt格式::</br>https://ghp.ci/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/txt/Sexy.txt</br>
+
+# 🇹🇼中华民国🇹🇼成立于1911年，目前所属领地为台湾岛，金门，澎湖列岛，马祖地区
+# 🇨🇳中华人民共和国🇨🇳成立于1949年，目前所属领地为中国大陆
+# 两国在领土，外交等地方互不相通也互不隶属，特此通告！中华民国的民众有自我捍卫领土和主权的权利！
 
 另外介绍几个欲望很强的小姐姐，可约哦</br></br></br>
 <img src=https://github.com/LITTLEPINKALLDEAD/Sexy/blob/main/Images/%E5%A4%A7%E5%A5%B6%E7%BB%B4/vv%20(5).png />
