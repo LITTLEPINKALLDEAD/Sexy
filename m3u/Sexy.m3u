@@ -101,7 +101,7 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 #EXTINF:-1 group-title="🇪🇺直播🇺🇸",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="🇯🇵" group-title="🇯🇵日本1🇯🇵",雪莉台
+#EXTINF:-1 group-title="🇯🇵日本1🇯🇵",雪莉台
 https://m3u8.47cdn.com/videos/201912/wEGXVV/hls/wEGXVV.m3u8
 #EXTINF:-1 group-title="🇯🇵日本1🇯🇵",宫紫苑
 https://m3u8.34cdn.com/movie-hls/170430/ydgzy23/index.m3u8
