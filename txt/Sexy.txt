@@ -51,7 +51,7 @@ Visit-X TV,https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
-日本1,#genre#
+日韩混搭,#genre#
 雪莉台,https://m3u8.47cdn.com/videos/201912/wEGXVV/hls/wEGXVV.m3u8
 宫紫苑,https://m3u8.34cdn.com/movie-hls/170430/ydgzy23/index.m3u8
 市井和菜,https://m3u8.47cdn.com/videos/201909/bjOaZ5g7/hls/bjOaZ5g7.m3u8
@@ -69,8 +69,6 @@ sm系列4,https://m3u8.47cdn.com/videos/smsm/2005/ytycd455/hls/ytycd455.m3u8
 ZOZO-153被高薪工作欺骗,https://t21.cdn2020.com/video/m3u8/2023/04/07/1b408fc3/index.m3u8
 姬,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
 西川,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-
-日本2,#genre#
 1,https://ckzy1com.com/20211128/iXrCsHpX/800kb/hls/index.m3u8
 2,http://cdn.myffun.com/20231128/7902f6a98035f92389983bb6a5a6e935/output.m3u8
 3,http://cdn.myffun.com/20231118/3b2c2e539f3f9870358ab0bb99a965de/output.m3u8
@@ -78,6 +76,8 @@ ZOZO-153被高薪工作欺骗,https://t21.cdn2020.com/video/m3u8/2023/04/07/1b40
 5,https://cdn1.jtvpeuu.com/20240418/HhY0zXM9/2000kb/hls/index.m3u8
 6,https://ckzy1com.com/20211111/yaRfGqTg/index.m3u8
 7,https://ckzy1com.com/20211113/Jr8efxB9/index.m3u8
+
+红桃视频,#genre#
 8,https://cdn1.hongtaocdn3.com/video/m3u8/202401/26/f86a379d162e/f86a379d162e.mp4
 9,https://cdn1.hongtaocdn3.com/video/m3u8/202401/26/326c195c8b05/326c195c8b05.mp4
 10,https://cdn1.hongtaocdn3.com/video/m3u8/202401/26/63ce033582ff/63ce033582ff.mp4
