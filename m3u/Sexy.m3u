@@ -101,7 +101,7 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 http://stream.visit-x.tv:1935/vxtv/live_360p/playlist.m3u8
 #EXTINF:-1 group-title="直播",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="日本1",雪莉台
+#EXTINF:-1 tvg-logo="🇯🇵" group-title="🇯🇵日本1🇯🇵",雪莉台
 https://m3u8.47cdn.com/videos/201912/wEGXVV/hls/wEGXVV.m3u8
 #EXTINF:-1 group-title="日本1",宫紫苑
 https://m3u8.34cdn.com/movie-hls/170430/ydgzy23/index.m3u8
@@ -729,23 +729,23 @@ https://vod1.ttbfp2.com/20211107/oIBIknsG/index.m3u8
 https://vod1.ttbfp2.com/20211108/KCVbI7J7/index.m3u8
 #EXTINF:-1 group-title="[010519_793]極射杏奈りかhttps://old.fitlifenet.com/video.php?url=https://vvv.aaaf.info/a19/01/25263/playlist.m3u8" ,丈夫不在,与青梅竹马
 https://vod1.ttbfp2.com/20211108/sclm7pZN/index.m3u8
-#EXTINF:-1 group-title="日本剧情",jul-707
+#EXTINF:-1 group-title="剧情",jul-707
 https://vod1.ttbfp2.com/20210902/i0skeq9H/index.m3u8
-#EXTINF:-1 group-title="日本剧情",成
+#EXTINF:-1 group-title="剧情",成
 https://xiusebf1.com/20210806/Uq0v5xii/index.m3u8
-#EXTINF:-1 group-title="日本剧情",晃奶片段
+#EXTINF:-1 group-title="剧情",晃奶片段
 https://vod1.ttbfp2.com/20210827/DpqH941n/index.m3u8
-#EXTINF:-1 group-title="日本剧情",黑龙江科技大学
+#EXTINF:-1 group-title="剧情",黑龙江科技大学
 https://vod1.ttbfp2.com/20210827/fV7ixr3J/index.m3u8
-#EXTINF:-1 group-title="日本剧情",ibw-601z
+#EXTINF:-1 group-title="剧情",ibw-601z
 https://vod1.ttbfp2.com/20210819/GwcLuO2c/index.m3u8
-#EXTINF:-1 group-title="日本剧情",台湾军舰
+#EXTINF:-1 group-title="剧情",台湾军舰
 https://vod1.ttbfp2.com/20210807/95Jyb51K/index.m3u8
-#EXTINF:-1 group-title="日本萝莉",3
+#EXTINF:-1 group-title="萝莉",3
 https://vod1.ttbfp2.com/20210827/g9tsA7LS/index.m3u8
-#EXTINF:-1 group-title="日本萝莉",3p
+#EXTINF:-1 group-title="萝莉",3p
 https://vod1.ttbfp2.com/20210827/WGbDbba9/index.m3u8
-#EXTINF:-1 group-title="日本萝莉",暴红
+#EXTINF:-1 group-title="萝莉",暴红
 https://vod1.ttbfp2.com/20210826/VrvxqVdS/index.m3u8
 #EXTINF:-1 group-title="加勒比",加勒比112318美月
 https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
@@ -805,77 +805,77 @@ https://fc.maa1804.com/c/nqkumlvcrq/nqkumlvcrq.m3u8
 https://fc.maa1804.com/h/ylgnovsomq/ylgnovsomq.m3u8
 #EXTINF:-1 group-title="加勒比",加勒比102117清水爱梨
 https://fc.maa1804.com/g/gxefjnwrpd/gxefjnwrpd.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比102618青山
+#EXTINF:-1 group-title="加勒比",加勒比102618青山
 https://fc.maa1804.com/e/uqomnopjjl/uqomnopjjl.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比102717美优
+#EXTINF:-1 group-title="加勒比",加勒比102717美优
 https://fc.maa1804.com/b/akumhzwlmn/akumhzwlmn.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比102318小早川怜子
+#EXTINF:-1 group-title="加勒比",加勒比102318小早川怜子
 https://fc.maa1804.com/h/okphusulnk/okphusulnk.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比110417水鸟文乃
+#EXTINF:-1 group-title="加勒比",加勒比110417水鸟文乃
 https://fc.maa1804.com/g/vbdcerdriu/vbdcerdriu.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比110217双叶朝比奈菜子
+#EXTINF:-1 group-title="加勒比",加勒比110217双叶朝比奈菜子
 https://fc.maa1804.com/f/meqmhrnmjy/meqmhrnmjy.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比102017生岛凉
+#EXTINF:-1 group-title="加勒比",加勒比102017生岛凉
 https://fc.maa1804.com/f/erxwhitgwo/erxwhitgwo.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比101718百多
+#EXTINF:-1 group-title="加勒比",加勒比101718百多
 https://fc.maa1804.com/m/moqjmmjojn/moqjmmjojn.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比101717结希真琴
+#EXTINF:-1 group-title="加勒比",加勒比101717结希真琴
 https://fc.maa1804.com/c/cfbgufvggs/cfbgufvggs.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比101618羽田真裡
+#EXTINF:-1 group-title="加勒比",加勒比101618羽田真裡
 https://fc.maa1804.com/d/orqsmptjrn/orqsmptjrn.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比101318专用肥皂
+#EXTINF:-1 group-title="加勒比",加勒比101318专用肥皂
 https://fc.maa1804.com/m/mqonningom/mqonningom.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比101218小野寺梨纱
+#EXTINF:-1 group-title="加勒比",加勒比101218小野寺梨纱
 https://fc.maa1804.com/c/qjlojluhvv/qjlojluhvv.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比101017七濑
+#EXTINF:-1 group-title="加勒比",加勒比101017七濑
 https://fc.maa1804.com/f/pwkupqugdm/pwkupqugdm.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比100717北川
+#EXTINF:-1 group-title="加勒比",加勒比100717北川
 https://fc.maa1804.com/n/sfxuwjeqel/sfxuwjeqel.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比100518上山奈
+#EXTINF:-1 group-title="加勒比",加勒比100518上山奈
 https://fc.maa1804.com/g/ourljpopnt/ourljpopnt.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比100317君岛
+#EXTINF:-1 group-title="加勒比",加勒比100317君岛
 https://fc.maa1804.com/h/zkxlkocdxl/zkxlkocdxl.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092918美波
+#EXTINF:-1 group-title="加勒比",加勒比092918美波
 https://fc.maa1804.com/g/ekpqjlljqg/ekpqjlljqg.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092818仲村
+#EXTINF:-1 group-title="加勒比",加勒比092818仲村
 https://fc.maa1804.com/m/jnpjoqhnir/jnpjoqhnir.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092917美优
+#EXTINF:-1 group-title="加勒比",加勒比092917美优
 https://fc.maa1804.com/c/zsewpmattg/zsewpmattg.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092518小野寺梨纱
+#EXTINF:-1 group-title="加勒比",加勒比092518小野寺梨纱
 https://fc.maa1804.com/e/lpfqppikji/lpfqppikji.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092617美月
+#EXTINF:-1 group-title="加勒比",加勒比092617美月
 https://fc.maa1804.com/m/bqwgxeqchj/bqwgxeqchj.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092318美笑爱
+#EXTINF:-1 group-title="加勒比",加勒比092318美笑爱
 https://fc.maa1804.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092317水鸟文乃
+#EXTINF:-1 group-title="加勒比",加勒比092317水鸟文乃
 https://fc.maa1804.com/h/irpvrehslk/irpvrehslk.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092217立花琉莉
+#EXTINF:-1 group-title="加勒比",加勒比092217立花琉莉
 https://fc.maa1804.com/g/xrneddrqnv/xrneddrqnv.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比092118美月
+#EXTINF:-1 group-title="加勒比",加勒比092118美月
 https://fc.maa1804.com/f/tlqrirkooq/tlqrirkooq.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091818美香
+#EXTINF:-1 group-title="加勒比",加勒比091818美香
 https://fc.maa1804.com/n/knfqnnllfp/knfqnnllfp.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091917小野寺梨纱
+#EXTINF:-1 group-title="加勒比",加勒比091917小野寺梨纱
 https://fc.maa1804.com/n/dmgbysuudf/dmgbysuudf.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091717葵千惠
+#EXTINF:-1 group-title="加勒比",加勒比091717葵千惠
 https://fc.maa1804.com/m/gfcxlkekjk/gfcxlkekjk.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091618夏目
+#EXTINF:-1 group-title="加勒比",加勒比091618夏目
 https://fc.maa1804.com/g/mntmspnmpm/mntmspnmpm.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091617生岛凉
+#EXTINF:-1 group-title="加勒比",加勒比091617生岛凉
 https://fc.maa1804.com/e/eisniscomw/eisniscomw.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091518朝比奈菜子2人
+#EXTINF:-1 group-title="加勒比",加勒比091518朝比奈菜子2人
 https://fc.maa1804.com/n/pmyfmpdpvp/pmyfmpdpvp.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091517华音
+#EXTINF:-1 group-title="加勒比",加勒比091517华音
 https://fc.maa1804.com/h/rjmcznbeku/rjmcznbeku.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091418亚美
+#EXTINF:-1 group-title="加勒比",加勒比091418亚美
 https://fc.maa1804.com/d/lrkumlkmki/lrkumlkmki.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091217深美
+#EXTINF:-1 group-title="加勒比",加勒比091217深美
 https://fc.maa1804.com/m/zacnrjhmnn/zacnrjhmnn.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比091118沙藤
+#EXTINF:-1 group-title="加勒比",加勒比091118沙藤
 https://fc.maa1804.com/g/gqklqrooli/gqklqrooli.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比090817神田
+#EXTINF:-1 group-title="加勒比",加勒比090817神田
 https://fc.maa1804.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-#EXTINF:-1 group-title="加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8",加勒比112418原
+#EXTINF:-1 group-title="加勒比",加勒比112418原
 https://fc.maa1804.com/e/kuqkhrmhpo/kuqkhrmhpo.m3u8
 #EXTINF:-1 group-title="一本道",一本道073015美星
 https://fc.maa1804.com/n/jankufiltx/jankufiltx.m3u8
@@ -1021,53 +1021,3 @@ https://fc.maa1804.com/d/pilicllabs/pilicllabs.m3u8
 https://fc.maa1804.com/g/jobtusdlca/jobtusdlca.m3u8
 #EXTINF:-1 group-title="东京",东京1046白石
 https://fc.maa1804.com/n/qdbhccbuda/qdbhccbuda.m3u8
-#EXTINF:-1 group-title="写真视频",2
-https://vd3.bdstatic.com/mda-parhpikhbstfmeg6/720p/h264/1674736207209234905/mda-parhpikhbstfmeg6.mp4?pd=19&vt=1
-#EXTINF:-1 group-title="写真视频",3
-https://vdse.bdstatic.com//1e0de035f0ea30c5cfa7a325d7bec598.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-26T12%3A26%3A50Z%2F-1%2Fhost%2Fc79fbf721a4cb8dbfa77f773066143a0d9e53b50b1eb1658ea377895bef67ed9
-#EXTINF:-1 group-title="写真视频",4
-https://vdse.bdstatic.com//68241c0d150557d4b7fb5584f62f37ad.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-24T03%3A19%3A06Z%2F-1%2Fhost%2F320e41d4977e4f9875fc73644b5b3cd15d8323f81ef83f75b93fc8f31d3dee32
-#EXTINF:-1 group-title="写真视频",6
-https://vdse.bdstatic.com//4a8f93d6aa191ce8e68c40817b1db72a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-24T05%3A34%3A27Z%2F-1%2Fhost%2F86df236cc149eea8688be4915979de11a1c7a4436a893acdbd55a9c69ebfbb7d
-#EXTINF:-1 group-title="写真视频",7
-https://vdse.bdstatic.com//3421d23ce9615e20d75f498a7afe1782.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-26T23%3A22%3A28Z%2F-1%2Fhost%2Fc10f81f615cd12becf72c5a0df9912309005676181ace14ffb5c0a66ef2e9323
-#EXTINF:-1 group-title="写真视频",8
-https://vdse.bdstatic.com//93b90a579bc513a4fff7503182b13e92.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-26T06%3A33%3A21Z%2F-1%2Fhost%2F02374f5b98d5b8480a3079f1a02cc01184ef1e9c1847b9a4e819360b6acb6b7b
-#EXTINF:-1 group-title="写真视频",9
-https://vdse.bdstatic.com//b069de2d98792a5d10f9025a69534e3a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-26T23%3A43%3A00Z%2F-1%2Fhost%2Fa70f95ade703c738b89794c46c35436d2f14f58844035d12a6389515d03bce54
-#EXTINF:-1 group-title="写真视频",10
-https://vdse.bdstatic.com//316c1fa5cb9495162afdb2abf8e1e284.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-26T22%3A21%3A50Z%2F-1%2Fhost%2F97bb436b5c5c294695a83da324d5e5ee0a2df7e764b0f6277782634b68300160
-#EXTINF:-1 group-title="写真视频",11
-https://vdse.bdstatic.com//68241c0d150557d4b7fb5584f62f37ad.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-01-26T20%3A55%3A19Z%2F-1%2Fhost%2F0a343b598429ad92a6f4ddf9ebc9870acbaf1db8e9639c56ef9f4caeafe140e2
-#EXTINF:-1 group-title="写真视频",12
-https://vdse.bdstatic.com//1ba73fb0553c1609902c610eeec5e075.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-04-24T17%3A32%3A48Z%2F-1%2Fhost%2Fceab9e1287c069419616dc9d0302c0d8dc61e8dbc11b392f71cd3e9ea71aa0f3
-#EXTINF:-1 group-title="写真视频",14
-https://t1.zacuin.com/20240104/LFGEmdVi/index.m3u8
-#EXTINF:-1 group-title="写真视频",29
-https://ckzy1com.com/20220125/Ww7LBjJh/index.m3u8
-#EXTINF:-1 group-title="写真视频",32
-https://ckzy1com.com/20210906/JkNjjBIC/index.m3u8
-#EXTINF:-1 group-title="小鹏奇葩行",1
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/8ff58c5a6fbb/8ff58c5a6fbb.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",2
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/49b02fdd58b9/49b02fdd58b9.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",3
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/865713e20139/865713e20139.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",4
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/6a0060de4943/6a0060de4943.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",6
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/f080cffaa4fa/f080cffaa4fa.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",7
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/c8710024cf39/c8710024cf39.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",8
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/60643972a16d/60643972a16d.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",10
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/d2488565a7b4/d2488565a7b4.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",11
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/0c0468568c2c/0c0468568c2c.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",12
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/80bcac934b4e/80bcac934b4e.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",13
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/56ce3d93879a/56ce3d93879a.mp4
-#EXTINF:-1 group-title="小鹏奇葩行",14
-https://cdn1.hongtaocdn3.com/video/m3u8/202401/24/b72d983d8952/b72d983d8952.mp4
