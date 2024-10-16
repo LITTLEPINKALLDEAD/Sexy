@@ -421,7 +421,7 @@ ibw-601z,https://vod1.ttbfp2.com/20210819/GwcLuO2c/index.m3u8
 加勒比110218仲村,https://fc.maa1804.com/c/nqkumlvcrq/nqkumlvcrq.m3u8
 加勒比103117水树,https://fc.maa1804.com/h/ylgnovsomq/ylgnovsomq.m3u8
 加勒比102117清水爱梨,https://fc.maa1804.com/g/gxefjnwrpd/gxefjnwrpd.m3u8
-加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8,#genre#
+加勒比101918日高千晶,https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8
 加勒比102618青山,https://fc.maa1804.com/e/uqomnopjjl/uqomnopjjl.m3u8
 加勒比102717美优,https://fc.maa1804.com/b/akumhzwlmn/akumhzwlmn.m3u8
 加勒比102318小早川怜子,https://fc.maa1804.com/h/okphusulnk/okphusulnk.m3u8
