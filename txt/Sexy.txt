@@ -474,11 +474,11 @@ ibw-601z,https://vod1.ttbfp2.com/20210819/GwcLuO2c/index.m3u8
 素人H0930铃,https://fc.maa1804.com/b/cevumxmskf/cevumxmskf.m3u8
 素人秋元花,https://fc.maa1804.com/h/eactfldcal/eactfldcal.m3u8
 
-C0930_188452,#genre#
+C0930,#genre#
 C0930今杉香帆子,https://fc.maa1804.com/e/kjkrnilrqm/kjkrnilrqm.m3u8
 C0930中江寻乃,https://fc.maa1804.com/n/gemfgbagrl/gemfgbagrl.m3u8
 
-heyzo_188452,#genre#
+heyzo,#genre#
 heyzo0581川岛,https://fc.maa1804.com/m/bccccoaite/bccccoaite.m3u8
 heyzo1457笑田凛,https://fc.maa1804.com/b/ejgoepbpqz/ejgoepbpqz.m3u8
 heyzo1357春日部,https://fc.maa1804.com/m/xdasdgvdzp/xdasdgvdzp.m3u8
