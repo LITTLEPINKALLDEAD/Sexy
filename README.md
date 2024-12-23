@@ -1,6 +1,6 @@
 <br>性感福利频道，欢迎订阅，订阅地址：
-<br>m3u格式:</br>https://cf.ghproxy.cc/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/m3u/Sexy.m3u</br>
-<br>txt格式::</br>https://cf.ghproxy.cc/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/txt/Sexy.txt</br>
+<br>m3u格式:</br>https://mirror.ghproxy.com/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/m3u/Sexy.m3u</br>
+<br>txt格式::</br>https://mirror.ghproxy.com/https://raw.githubusercontent.com/LITTLEPINKALLDEAD/Sexy/refs/heads/main/txt/Sexy.txt</br>
 
 # 🇹🇼中华民国🇹🇼成立于1911年，目前所属领地为台湾岛，金门，澎湖列岛，马祖地区
 # 🇨🇳中华人民共和国🇨🇳成立于1949年，目前所属领地为中国大陆
